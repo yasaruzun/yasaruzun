@@ -1,7 +1,5 @@
 ### Hi there, I'm Yasar 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on UI,MobApp and API testing
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on other content creators
