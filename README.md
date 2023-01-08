@@ -4,6 +4,4 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on other content creators
 - 🥅 2023 Goals: Have more experinece in testing
-- 📫 How to reach me: yasaruzun91@gmail.com
-
-
+- 📫 How to reach me:
