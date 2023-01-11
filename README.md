@@ -23,6 +23,8 @@
       <a href="https://www.atlassian.com/software/jira" rel="nofollow">
         <img src="https://camo.githubusercontent.com/d719d494d098a065aa4109e33e3537f0b42c1891b3e92edcb858e6690f7dcf56/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f6865766f2f696d6167652f75706c6f61642f635f7363616c652c775f3330302c685f3137382c6470725f322f665f6175746f2c715f6175746f2f76313633373931363331382f6865766f2d6c6561726e2f4a6972612d54657374696e672d4a6972612d6c6f676f2e706e673f5f693d4141" alt="jira" width="40" height="40" data-canonical-src="https://res.cloudinary.com/hevo/image/upload/c_scale,w_300,h_178,dpr_2/f_auto,q_auto/v1637916318/hevo-learn/Jira-Testing-Jira-logo.png?_i=AA" style="max-width: 100%;">
       </a>
+      <a href="https://www.mysql.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width: 100%;"> 
+      </a>
       <a href="https://www.jenkins.io/doc/book/using/using-local-language/" rel="nofollow">
         <img src="https://camo.githubusercontent.com/525519d42dcb9ea987abd667c5100b32ff2bfaba88c15200689d3191d13f9962/68747470733a2f2f6f67757a68616e696e616e2e6769746c61622e696f2f6173736574732f696d672f6a656e6b696e732e6a7067" alt="jenkins" width="40" height="40" data-canonical-src="https://oguzhaninan.gitlab.io/assets/img/jenkins.jpg" style="max-width: 100%;">
       </a>
