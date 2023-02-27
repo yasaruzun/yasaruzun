@@ -23,6 +23,9 @@
       </a>
       <a href="https://www.mysql.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width: 100%;"> 
       </a>
+      <a href="https://appium.io/" rel="nofollow">
+       <img src="https://camo.githubusercontent.com/21b3f79b3b2043bf9bacae7bbc960c63aec9e427832cff71739d670511699e0b/68747470733a2f2f69302e77702e636f6d2f6c6561726e2d6175746f6d6174696f6e2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031352f31322f41707069756d2e706e673f726573697a653d3639382532433430302673736c3d31" alt="appium" width="50" height="50" data-canonical-src="https://i0.wp.com/learn-automation.com/wp-content/uploads/2015/12/Appium.png?resize=698%2C400&amp;ssl=1" style="max-width: 100%;">     
+    </a>    
       <a href="https://www.jenkins.io/doc/book/using/using-local-language/" rel="nofollow">
         <img src="https://camo.githubusercontent.com/525519d42dcb9ea987abd667c5100b32ff2bfaba88c15200689d3191d13f9962/68747470733a2f2f6f67757a68616e696e616e2e6769746c61622e696f2f6173736574732f696d672f6a656e6b696e732e6a7067" alt="jenkins" width="40" height="40" data-canonical-src="https://oguzhaninan.gitlab.io/assets/img/jenkins.jpg" style="max-width: 100%;">
       </a>
